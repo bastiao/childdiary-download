@@ -1,0 +1,30 @@
+# Dados pessoais - NUNCA fazer commit destes ficheiros
+*.har
+cookie.txt
+cookies.txt
+json/
+fotos/
+childdiary_media/
+manifest.csv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.heic
+*.mp4
+*.mov
+*.m4v
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
